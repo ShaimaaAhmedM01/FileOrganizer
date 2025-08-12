@@ -26,18 +26,18 @@ Python script to organize files in a given folder into subfolders based on their
 - No extra libraries required (uses built-in Python modules: `os`, `shutil`)
 
 ### 1. Clone or download this repository
-git clone https://github.com/ShaimaaAhmedM01/FileOrganizer.git
-cd FileOrganizer
+- git clone https://github.com/ShaimaaAhmedM01/FileOrganizer.git
+- cd FileOrganizer
 
 ## Run script
 python FileOrganizer.py
 
 ## Example Output 
-Please type in the full path of the folder containing your files: /Users/shaimaa/Desktop/test
-Do you want to run in simulate mode? (yes/no): yes
-Simulation mode ON — No files will be moved.
-[SIMULATE] Would move 'photo.jpg' → 'Images/'
-[SIMULATE] Would move 'report.pdf' → 'Documents/'
+- Please type in the full path of the folder containing your files: /Users/shaimaa/Desktop/test
+- Do you want to run in simulate mode? (yes/no): yes
+- Simulation mode ON — No files will be moved.
+- [SIMULATE] Would move 'photo.jpg' → 'Images/'
+- [SIMULATE] Would move 'report.pdf' → 'Documents/'
 
 Summary:
 Images: 1
